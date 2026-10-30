@@ -21,6 +21,9 @@ upstream:
   sponsor:
   - name: Apprise
     url: https://www.paypal.me/lead2gold
+  notes:
+    type: github_release
+    repo: caronc/apprise-api
 
 release:
   branch: main
