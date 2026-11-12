@@ -37,7 +37,7 @@ gdbm                    1.24-r0           apk
 gevent                  26.9.0            python                           
 gntp                    1.0.3             python                           
 greenlet                3.5.6             python          (+1 duplicate)   
-gunicorn                26.2.0            python                           
+gunicorn                27.0.0            python                           
 idna                    3.20              python          (+1 duplicate)   
 jansson                 2.14.1-r0         apk                              
 jq                      1.8.2-r0          apk                              
