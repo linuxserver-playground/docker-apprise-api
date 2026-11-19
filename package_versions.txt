@@ -78,7 +78,7 @@ packaging               26.3              python          (+1 duplicate)
 paho-mqtt               2.2.0             python                           
 pcre2                   10.46-r1          apk                              
 pgpy                    0.6.0             python                           
-pika                    1.4.4             python                           
+pika                    1.5.0             python                           
 pip                     26.3              python                           
 pip                     UNKNOWN           UnknownPackage                   
 platformdirs            4.12.4            python                           
